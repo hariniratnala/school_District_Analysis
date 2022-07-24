@@ -12,7 +12,7 @@ The PyCitySchools school district needs to analyze the student testing data for 
 
 (See image below) This analysis required us to use the loc method, logical, and comparison operators to filter and replace all the 9th grade math and reading scores for Thomas High School to NaNs.
 
-![image](https://user-images.githubusercontent.com/108489186/180668064-6dc2321d-6733-4912-8912-a9ce63c1d21b.png)
+![image](https://user-images.githubusercontent.com/108489186/180669155-48b0a2e3-b80c-4d7e-90a2-7b080f2dc971.png)
 
 ### District Summary:
 
